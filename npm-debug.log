@@ -7,8 +7,8 @@
 6 silly lifecycle quiz@1.0.0~prebuild: no script for prebuild, continuing
 7 info lifecycle quiz@1.0.0~build: quiz@1.0.0
 8 verbose lifecycle quiz@1.0.0~build: unsafe-perm in lifecycle true
-9 verbose lifecycle quiz@1.0.0~build: PATH: /usr/share/npm/bin/node-gyp-bin:/home/chirag/Documents/WebD/quiz/node_modules/.bin:/usr/local/cuda-9.0/bin:/usr/local/cuda-9.0/bin:/home/chirag/anaconda3/bin:/home/chirag/anaconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
-10 verbose lifecycle quiz@1.0.0~build: CWD: /home/chirag/Documents/WebD/quiz
+9 verbose lifecycle quiz@1.0.0~build: PATH: /usr/share/npm/bin/node-gyp-bin:/home/Sneha/Documents/WebD/quiz/node_modules/.bin:/usr/local/cuda-9.0/bin:/usr/local/cuda-9.0/bin:/home/Sneha/anaconda3/bin:/home/Sneha/anaconda3/condabin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+10 verbose lifecycle quiz@1.0.0~build: CWD: /home/Sneha/Documents/WebD/quiz
 11 silly lifecycle quiz@1.0.0~build: Args: [ '-c', 'npm run clean && npm run imagemin && npm run usemin' ]
 12 silly lifecycle quiz@1.0.0~build: Returned: code: 1  signal: null
 13 info lifecycle quiz@1.0.0~build: Failed to exec build script
